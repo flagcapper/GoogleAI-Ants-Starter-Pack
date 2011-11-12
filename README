@@ -1,3 +1,5 @@
+NOTE: Please request any changes or post any issues with the starter pack on the main aichallenge repo instead.
+
 A C starter pack created by flagcapper. If given any unexpected input, it will crash. Compile using the makefile or with:
 
 gcc *.c -o MyBot -lm
